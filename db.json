@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Take test",
+      "day": "13th Feb 2022 at 11:00am",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "gh",
+      "day": "vgh",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Take tea",
+      "day": "tygjbm",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
